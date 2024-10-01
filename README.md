@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a photograph gallery website<br>I'm looking for help with js<br>I'm currently learning html, css and js<br>
+I'm currently working on a photograph gallery website<br>I'm looking for help with js<br>I'm currently learning python, html, css and js<br>
 
 
 ## 🌐 Socials:
