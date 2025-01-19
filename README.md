@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on learning C#<br>I'm looking for help with C#<br>I'm currently learning C#<br>
+I'm currently working on better understanding javascript<br>I'm looking for help with javascript<br>I'm currently learning javascript<br>
 
 
 ## 🌐 Socials:
